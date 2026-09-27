@@ -3,22 +3,22 @@
 Show what you're doing on your **Discord profile** — games, apps, music, custom
 activities, AFK and live streams — with themes, stats and achievements.
 
-Created by **Mr_william_afton**.
+Created by **Mr_william_afton**. © 2026 Mr_william_afton. All rights reserved.
 
 ## Download
 
-➡ **[Get the latest GAT.exe](https://github.com/Mrwilliamafton/GAT/releases/latest)**
+➡ **[Get GAT on itch.io](https://mr-williamafton.itch.io/gat)**
 
-1. Download `GAT.exe` from the latest release.
-2. Run it — no install needed (Windows 10/11).
+1. Download GAT from the itch.io page.
+2. Run `GAT.exe` — no install needed (Windows 10/11).
 3. Open the Discord desktop app, paste a Client ID from
    [discord.com/developers](https://discord.com/developers/applications), and press **[CONNECT]**.
 
 ## Updating
 
-GAT checks this page once a day and shows **"🆕 GAT vX is out"** when a new
-version is released. Download the new `GAT.exe`, close GAT (tray icon → Quit) and
-replace the old file — your apps, settings and stats are kept
+GAT checks for new versions once a day and shows **"🆕 GAT vX is out"**.
+Press **Download**, get the new `GAT.exe` from itch.io, close GAT (tray icon → Quit)
+and replace the old file — your apps, settings and stats are kept
 (they live in `%APPDATA%\GAT`).
 
 ## Notes
